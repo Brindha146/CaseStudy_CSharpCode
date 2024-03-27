@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudy\\repository\\carleaserepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\repository\\carleaserepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudy\\exception_handling\\carnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\exception_handling\\carnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudy\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudy\\service\\carmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\service\\carmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudy\\carrentalapp\\casestudyapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\carrentalapp\\casestudyapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudy\\service\\ipaymentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\service\\ipaymentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45462348-61BE-46A4-A452-5491F9346C3E}|CaseStudyApp.nUnitTests\\CaseStudyApp.nUnitTests.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudyapp.nunittests\\carcreatetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45462348-61BE-46A4-A452-5491F9346C3E}|CaseStudyApp.nUnitTests\\CaseStudyApp.nUnitTests.csproj|solutionrelative:casestudyapp.nunittests\\carcreatetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudy\\service\\customermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\service\\customermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudy\\service\\icustomermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\service\\icustomermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudy\\service\\leasemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\service\\leasemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudy\\service\\paymentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\service\\paymentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudy\\repository\\icarleaserepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\repository\\icarleaserepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudy\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudy\\models\\lease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\models\\lease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45462348-61BE-46A4-A452-5491F9346C3E}|CaseStudyApp.nUnitTests\\CaseStudyApp.nUnitTests.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudyapp.nunittests\\leasecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45462348-61BE-46A4-A452-5491F9346C3E}|CaseStudyApp.nUnitTests\\CaseStudyApp.nUnitTests.csproj|solutionrelative:casestudyapp.nunittests\\leasecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudy\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|c:\\users\\asus\\source\\repos\\casestudy\\casestudy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{563F0C85-2276-4E46-A679-2474EC3135F0}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarLeaseRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Repository\\CarLeaseRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Repository\\CarLeaseRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Repository\\CarLeaseRepositoryImpl.cs",
+              "RelativeToolTip": "CaseStudy\\Repository\\CarLeaseRepositoryImpl.cs",
+              "ViewState": "AQIAAFUBAAAAAAAAAAAvwFwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:41:01.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Models\\Car.cs",
+              "RelativeToolTip": "CaseStudy\\Models\\Car.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvw4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:08:14.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Casestudyapp.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\CarRentalApp\\Casestudyapp.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\CarRentalApp\\Casestudyapp.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\CarRentalApp\\Casestudyapp.cs",
+              "RelativeToolTip": "CaseStudy\\CarRentalApp\\Casestudyapp.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T05:02:06.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPaymentManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Service\\IPaymentManagement.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Service\\IPaymentManagement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Service\\IPaymentManagement.cs",
+              "RelativeToolTip": "CaseStudy\\Service\\IPaymentManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:45:33.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Service\\CarManagement.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Service\\CarManagement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Service\\CarManagement.cs",
+              "RelativeToolTip": "CaseStudy\\Service\\CarManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:44:00.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Exception_Handling\\CarNotFoundException.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Exception_Handling\\CarNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Exception_Handling\\CarNotFoundException.cs",
+              "RelativeToolTip": "CaseStudy\\Exception_Handling\\CarNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:09:38.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarCreateTest.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudyApp.nUnitTests\\CarCreateTest.cs",
+              "RelativeDocumentMoniker": "CaseStudyApp.nUnitTests\\CarCreateTest.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudyApp.nUnitTests\\CarCreateTest.cs",
+              "RelativeToolTip": "CaseStudyApp.nUnitTests\\CarCreateTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T03:43:10.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Service\\CustomerManagement.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Service\\CustomerManagement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Service\\CustomerManagement.cs",
+              "RelativeToolTip": "CaseStudy\\Service\\CustomerManagement.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:45:47.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICarLeaseRepository .cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Repository\\ICarLeaseRepository .cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Repository\\ICarLeaseRepository .cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Repository\\ICarLeaseRepository .cs",
+              "RelativeToolTip": "CaseStudy\\Repository\\ICarLeaseRepository .cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:03:03.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeaseManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Service\\LeaseManagement.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Service\\LeaseManagement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Service\\LeaseManagement.cs",
+              "RelativeToolTip": "CaseStudy\\Service\\LeaseManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:13:22.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Models\\Payment.cs",
+              "RelativeToolTip": "CaseStudy\\Models\\Payment.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB4AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:08:50.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICustomerManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Service\\ICustomerManagement.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Service\\ICustomerManagement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Service\\ICustomerManagement.cs",
+              "RelativeToolTip": "CaseStudy\\Service\\ICustomerManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:00:42.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Service\\PaymentManagement.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Service\\PaymentManagement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Service\\PaymentManagement.cs",
+              "RelativeToolTip": "CaseStudy\\Service\\PaymentManagement.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T05:10:00.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LeaseCreated.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudyApp.nUnitTests\\LeaseCreated.cs",
+              "RelativeDocumentMoniker": "CaseStudyApp.nUnitTests\\LeaseCreated.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudyApp.nUnitTests\\LeaseCreated.cs",
+              "RelativeToolTip": "CaseStudyApp.nUnitTests\\LeaseCreated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:05:24.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lease.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Models\\Lease.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Models\\Lease.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Models\\Lease.cs",
+              "RelativeToolTip": "CaseStudy\\Models\\Lease.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:08:41.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\Models\\Customer.cs",
+              "RelativeToolTip": "CaseStudy\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:08:31.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\appsettings.json",
+              "RelativeDocumentMoniker": "CaseStudy\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CaseStudy\\CaseStudy\\appsettings.json",
+              "RelativeToolTip": "CaseStudy\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T04:14:05.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
